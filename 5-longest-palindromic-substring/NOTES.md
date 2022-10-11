@@ -1,1 +1,1 @@
-​
+​Manacher's algorithm is used to find the longest palindromic substring in any given string. This algorithm is faster than the brute force approach, as it exploits the idea of a palindrome happening inside another palindrome. Manacher's algorithm is designed to find the palindromic substrings with odd lengths only.
